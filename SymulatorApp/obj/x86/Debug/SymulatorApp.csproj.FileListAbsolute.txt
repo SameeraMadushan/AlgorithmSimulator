@@ -1,0 +1,7 @@
+D:\SLIIT PROFILE\Second Year\Second semester\DAA\SymulatorApp\SymulatorApp\bin\Debug\SymulatorApp.exe
+D:\SLIIT PROFILE\Second Year\Second semester\DAA\SymulatorApp\SymulatorApp\bin\Debug\SymulatorApp.pdb
+D:\SLIIT PROFILE\Second Year\Second semester\DAA\SymulatorApp\SymulatorApp\obj\x86\Debug\SymulatorApp.Properties.Resources.resources
+D:\SLIIT PROFILE\Second Year\Second semester\DAA\SymulatorApp\SymulatorApp\obj\x86\Debug\SymulatorApp.csproj.GenerateResource.Cache
+D:\SLIIT PROFILE\Second Year\Second semester\DAA\SymulatorApp\SymulatorApp\obj\x86\Debug\SymulatorApp.exe
+D:\SLIIT PROFILE\Second Year\Second semester\DAA\SymulatorApp\SymulatorApp\obj\x86\Debug\SymulatorApp.pdb
+D:\SLIIT PROFILE\Second Year\Second semester\DAA\SymulatorApp\SymulatorApp\obj\x86\Debug\SymulatorApp.Symulator.resources
